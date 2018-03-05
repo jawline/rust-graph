@@ -1,9 +1,8 @@
 [package]
-name = "rust-graph"
+name = "rust_graph"
 version = "0.1.0"
 authors = ["Blake Loring <blake@parsed.uk>"]
 
 [dependencies]
 
-rand = "0.4"
 gnuplot = "*"
